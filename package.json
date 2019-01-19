@@ -12,6 +12,9 @@
   "dependencies": {
     "dotenv": "^6.2.0",
     "hapi": "^18.0.0",
-    "hoek": "^6.1.2"
+    "hoek": "^6.1.2",
+    "pg": "^7.8.0",
+    "pg-hstore": "^2.3.2",
+    "sequelize": "^4.42.0"
   }
 }
